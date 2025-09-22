@@ -3,3 +3,5 @@ some changes done by user01
 second line
 I am rewritting a.txt
 adding some more lines
+some changes by user02
+some more lines 
