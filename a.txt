@@ -3,3 +3,5 @@ some changes done by user01
 second line
 some changes in a.txt
 some more lines
+Changes from user2
+user 2 is doing some changes 
